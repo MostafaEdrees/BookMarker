@@ -1,0 +1,12 @@
+textarea
+{
+    resize: none;
+}
+body{
+    background-image: url(../img/counters-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+#elementInfo{
+    background-color: cadetblue;
+}
